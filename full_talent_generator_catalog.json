@@ -1,29 +1,29 @@
 [
   {
-    "name": "Talent 1: Dcgen",
+    "name": "Talent 1: Thredwatcher",
     "category": "Personality-Based",
     "rarity": "\u2b50\u2b50\u2b50 Rare",
-    "rating": "B",
-    "description": "This is a placeholder description for Talent 1: Dcgen.",
+    "rating": "A",
+    "description": "Sees hidden links and causes effect chains",
     "effects": {
-      "E": "Talent 1: Dcgen Effect E",
-      "C": "Talent 1: Dcgen Effect C",
-      "A": "Talent 1: Dcgen Effect A"
+      "E": "Talent 1: Hunch detection",
+      "C": "Talent 1: Pattern mapping",
+      "A": "Talent 1: See destiny threads"
     },
-    "world_notes": "Talent 1: Dcgen fits within the Personality-Based category and is rated B tier."
+    "world_notes": "Talent 1: Used by investigators, prophets, and archivists."
   },
   {
-    "name": "Talent 2: Hpgen",
+    "name": "Talent 2: Crimson Pact",
     "category": "Combat",
-    "rarity": "\u2b50\u2b50 Uncommon",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
     "rating": "A",
-    "description": "This is a placeholder description for Talent 2: Hpgen.",
+    "description": "Grows stronger the more betrayal you've suffered.",
     "effects": {
-      "E": "Talent 2: Hpgen Effect E",
-      "C": "Talent 2: Hpgen Effect C",
-      "A": "Talent 2: Hpgen Effect A"
+      "E": "Talent 2: Pain buff",
+      "C": "Talent 2: Vengeance mark",
+      "A": "Talent 2: Blood-forged weapon"
     },
-    "world_notes": "Talent 2: Hpgen fits within the Combat category and is rated A tier."
+    "world_notes": "Talent 2: Used by investigators, prophets, and archivists."
   },
   {
     "name": "Talent 3: Ctgen",
@@ -39,17 +39,17 @@
     "world_notes": "Talent 3: Ctgen fits within the System-Balancing category and is rated B tier."
   },
   {
-    "name": "Talent 4: Jtgen",
+    "name": "Talent 4: First Voice",
     "category": "Age-Specific",
     "rarity": "\u2b50\u2b50 Uncommon",
-    "rating": "D",
-    "description": "This is a placeholder description for Talent 4: Jtgen.",
+    "rating": "B",
+    "description": "Speaking your truth for the first time activates this.",
     "effects": {
-      "E": "Talent 4: Jtgen Effect E",
-      "C": "Talent 4: Jtgen Effect C",
-      "A": "Talent 4: Jtgen Effect A"
+      "E": "Talent 4: Emotional honesty",
+      "C": "Talent 4: Power lock",
+      "A": "Talent 4: Purpose manifest"
     },
-    "world_notes": "Talent 4: Jtgen fits within the Age-Specific category and is rated D tier."
+    "world_notes": "Talent 4: Coming of age ritual in many tribes."
   },
   {
     "name": "Talent 5: Aqgen",
